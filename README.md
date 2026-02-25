@@ -42,6 +42,7 @@
 22. [Flexbox水太深，你把持不住](https://github.com/mqyqingfeng/Blog/issues/407)
 23. [2026 年的 Node.js 已经不是那个你认识的 Node.js 了](https://github.com/mqyqingfeng/Blog/issues/408)
 24. [我没想到 CSS if 函数这么强](https://github.com/mqyqingfeng/Blog/issues/409)
+25. [2026 年 JavaScript 框架 3 大趋势](https://github.com/mqyqingfeng/Blog/issues/410)
 
 ## Nano Banana Pro 系列
 
