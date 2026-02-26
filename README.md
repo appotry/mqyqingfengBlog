@@ -43,6 +43,7 @@
 23. [2026 年的 Node.js 已经不是那个你认识的 Node.js 了](https://github.com/mqyqingfeng/Blog/issues/408)
 24. [我没想到 CSS if 函数这么强](https://github.com/mqyqingfeng/Blog/issues/409)
 25. [2026 年 JavaScript 框架 3 大趋势](https://github.com/mqyqingfeng/Blog/issues/410)
+26. [100s 带你了解 Bun 为什么这么火](https://github.com/mqyqingfeng/Blog/issues/411)
 
 ## Nano Banana Pro 系列
 
